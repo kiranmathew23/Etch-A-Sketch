@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.board{
+    width: 500px;
+    height: 500px;
+    display: grid;
+    border-style: solid;
+    border-width: 20px;
+    border-color: red;
+    border-radius: 10px;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.
